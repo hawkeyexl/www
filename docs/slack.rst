@@ -250,7 +250,7 @@ Self-promotion, surveys, and sales
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 You're welcome to share, link to, and mention your own work, including blog posts, social media, events, and paid products or services.
-That said, posts where you stand to benefit from others' money, personal information, or labor come with higher expectations.
+That said, posts where you stand to benefit from others' money, personal information, click-throughs, or labor come with higher expectations.
 When this applies, make sure you follow the general guidelines closely.
 
 In addition to the guidance that applies to all participants, we expect self-promotion on the Write the Docs Slack to follow these additional guidelines:
@@ -275,6 +275,9 @@ In addition to the guidance that applies to all participants, we expect self-pro
   If you post about things that aren't relevant to the documentation field or the channel you're posting in, moderators might delete your messages.
   Make sure conversations stay relevant and not sales-focused, so you can have the chance to talk about work you're excited about.
 
+For example, a link to your own Hashnode or Medium article without being related to an ongoing conversation is Self-Promotional.
+Similarly, a post to a virtual meetup or "Office Hours" setting where the purpose is evangelizing your own product(s) is Self-Promotional (even if it's your companies work and not your own!).
+
 Here are some channels specifically for wholesome self-promotion:
 
 - **#job-posts-only** is the best place to post paid jobs.
@@ -282,6 +285,8 @@ Here are some channels specifically for wholesome self-promotion:
 - **#community-events** (formerly known as `#calls-for-papers`) is a good place to announce non-Write the Docs events.
 - **#community-help-wanted** is a good place to share surveys, calls for research interview subjects, and calls for participation on open-source projects.
 - **#community-showcase** is a space for responsible self-promotion.
+
+Please note that we will remove posts in those channels if they violate our Slack rules.
 
 Reporting Issues
 ~~~~~~~~~~~~~~~~
