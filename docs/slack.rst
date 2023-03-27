@@ -277,6 +277,7 @@ In addition to the guidance that applies to all participants, we expect self-pro
 
 For example, a link to your own Hashnode or Medium article without being related to an ongoing conversation is Self-Promotional.
 Similarly, a post to a virtual meetup or "Office Hours" setting where the purpose is evangelizing your own product(s) is Self-Promotional (even if it's your companies work and not your own!).
+But if there is an ongoing conversation on a topic you've written or created content for, you can offer to post that content and do so if the community expresses interest.
 
 Here are some channels specifically for wholesome self-promotion:
 
