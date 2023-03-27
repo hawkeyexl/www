@@ -287,7 +287,7 @@ Here are some channels specifically for wholesome self-promotion:
 - **#community-help-wanted** is a good place to share surveys, calls for research interview subjects, and calls for participation on open-source projects.
 - **#community-showcase** is a space for responsible self-promotion.
 
-Please note that we will remove posts in those channels if they violate our Slack rules.
+Posts in those channels not meeting the posting rules may result in :ref:`moderation action <moderation-action>`, such as a warning or deletion.
 
 Reporting Issues
 ~~~~~~~~~~~~~~~~
