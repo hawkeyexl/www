@@ -275,8 +275,8 @@ In addition to the guidance that applies to all participants, we expect self-pro
   If you post about things that aren't relevant to the documentation field or the channel you're posting in, moderators might delete your messages.
   Make sure conversations stay relevant and not sales-focused, so you can have the chance to talk about work you're excited about.
 
-For example, a link to your own Hashnode or Medium article without being related to an ongoing conversation is Self-Promotional.
-Similarly, a post to a virtual meetup or "Office Hours" setting where the purpose is evangelizing your own product(s) is Self-Promotional (even if it's your companies work and not your own!).
+For example, a link to your own Hashnode or Medium article without being related to an ongoing conversation is self-promotional.
+Similarly, a post to a virtual meetup or "Office Hours" setting where the purpose is evangelizing your own product(s) is self-promotional (even if it's your company's work and not your own!).
 But if there is an ongoing conversation on a topic you've written or created content for, you can offer to post that content and do so if the community expresses interest.
 
 Here are some channels specifically for wholesome self-promotion:
