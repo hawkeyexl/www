@@ -279,21 +279,27 @@ In addition to the guidance that applies to all participants, we expect self-pro
   If you post about things that aren't relevant to the documentation field or the channel you're posting in, moderators might delete your messages.
   Make sure conversations stay relevant and not sales-focused, so you can have the chance to talk about work you're excited about.
 
-Here are some examples of common self-promotion situations and how to self-promote responsibly:
+Here are some examples of common self-promotion situations and how to self-promote responsibly (and irresponsibly):
 
-.. list-table::
-   :stub-columns: 1
-   :widths: 60 40
-   :width: 100%
+You've written a blog post (Medium, Hashnode, etc.) that you want to share with the community, but it's not closely related to an ongoing discussion
+  **DO** share it in #community-showcase and tell us why you think it would be interesting or relevant to documentarians
+  
+  **DON'T** cross-post that content across multiple channels
 
-   * - You've written a blog post (Medium, Hashnode, etc.) that you want to share with the community, but it's not closely related to an ongoing discussion
-     - Share it in #community-showcase and tell us why you think it would be interesting or relevant to documentarians.
-   * - Your employer is hosting an event to promote their product or service (even if it's not the primary purpose of the event)
-     - Share it in #community-events and tell others your connection to the event.
-   * - Someone else has asked a question and you're the author of an article that answers the question
-     - Reply by briefly summarizing your article, noting your authorship, and linking to the article.
-   * - You are offering cash for gold, selling diet supplements, representing the estate of a recently diseased and heretofore unknown family member, or doing some other activity unrelated to documentation
-     - Do not post
+Your employer is hosting an event to promote their product or service (even if it's not the primary purpose of the event)
+  **DO** share it in #community-events and tell others your connection to the event
+  
+  **DON'T** use "marketing language" to obscure the purpose of the event, your relationship to the employer, or the costs associated to attendance
+
+Someone else has asked a question and you're the author of an article, blog, book, or similar resource that answers the question
+  **DO** reply by briefly summarizing your article, noting your authorship, and linking to the article
+  
+  **DON'T** solicit views/clickthroughs/purchases of your content, especially via Direct Messages or cross-posting out-of-context
+
+You are offering cash for gold, selling diet supplements, representing the estate of a recently diseased and heretofore unknown family member, or doing some other activity unrelated to documentation but for some reason requires our members to DM you their bank account information
+  **DO** consider better ways to engage with this community
+  
+  **DON'T** post that content to Write the Docs
 
 Here are some channels specifically for wholesome self-promotion:
 
