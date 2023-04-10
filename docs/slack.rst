@@ -259,25 +259,41 @@ In addition to the guidance that applies to all participants, we expect self-pro
   Clearly explain what you are promoting, why it matters to documentarians, and your involvement.
   Be up front about paywalls, registration requirements, referral benefits, or commissions.
   If you're running a survey, say when and how the results will be published.
+
 - **Give more than you take.**
   Make self-promotion a reasonable proportion of your participation in the community.
   Too much self-promotion creates distrust and hostility.
   If you're not sure if it's too much, aim to help others 10 times for every time you self-promote.
+
 - **Post publicly instead of sending direct messages (DMs)**.
   A DM is like a home and you're like a vampire: you're not allowed in without an invitation.
   It can be tempting to DM people, but please respect their inboxes and post in public channels unless invited to DM.
+
 - **Read the room.**
   The Write the Docs Slack is informal and conversational; high-pressure sales aren't welcome.
   If people aren't interested in what you're offering, don't take it as a license to become louder and more aggressive.
   If you're asked to stop, then stop.
+
 - **Treat the community like friends, not customers.**
   Posts that resemble infomercials are harder for the community to engage with and for the moderation team to distinguish from spam.
   If you post about things that aren't relevant to the documentation field or the channel you're posting in, moderators might delete your messages.
   Make sure conversations stay relevant and not sales-focused, so you can have the chance to talk about work you're excited about.
 
-For example, a link to your own Hashnode or Medium article without being related to an ongoing conversation is self-promotional.
-Similarly, a post to a virtual meetup or "Office Hours" setting where the purpose is evangelizing your own product(s) is self-promotional (even if it's your company's work and not your own!).
-But if there is an ongoing conversation on a topic you've written or created content for, you can offer to post that content and do so if the community expresses interest.
+Here are some examples of common self-promotion situations and how to self-promote responsibly:
+
+.. list-table::
+   :stub-columns: 1
+   :widths: 60 40
+   :width: 100%
+
+   * - You've written a blog post (Medium, Hashnode, etc.) that you want to share with the community, but it's not closely related to an ongoing discussion
+     - Share it in #community-showcase and tell us why you think it would be interesting or relevant to documentarians.
+   * - Your employer is hosting an event to promote their product or service (even if it's not the primary purpose of the event)
+     - Share it in #community-events and tell others your connection to the event.
+   * - Someone else has asked a question and you're the author of an article that answers the question
+     - Reply by briefly summarizing your article, noting your authorship, and linking to the article.
+   * - You are offering cash for gold, selling diet supplements, representing the estate of a recently diseased and heretofore unknown family member, or doing some other activity unrelated to documentation
+     - Do not post
 
 Here are some channels specifically for wholesome self-promotion:
 
