@@ -279,7 +279,7 @@ In addition to the guidance that applies to all participants, we expect self-pro
   If you post about things that aren't relevant to the documentation field or the channel you're posting in, moderators might delete your messages.
   Make sure conversations stay relevant and not sales-focused, so you can have the chance to talk about work you're excited about.
 
-Here are some examples of common self-promotion situations and how to self-promote responsibly (and irresponsibly):
+Here are some examples of common self-promotion situations, and some guidelines on how to self-promote responsibly:
 
 You've written a blog post (Medium, Hashnode, etc.) that you want to share with the community, but it's not closely related to an ongoing discussion
   **DO** share it in #community-showcase and tell us why you think it would be interesting or relevant to documentarians
